@@ -1,6 +1,6 @@
 ### <div align="center">About</div><br>
 - Working on FindOut Search: The topic-based wiki inspired by 4chan (Can be visited @ https://itsaminowo.github.io/findoutsearch/)
-- If you want to contribute to a project, contact u/itsaminowo on Reddit
+- Suggest fixes and more to u/itsaminowo on Reddit
 - Learning PHP and HTML basics
 <hr>
 <div align="center">
