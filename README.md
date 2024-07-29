@@ -1,4 +1,4 @@
-<h3 align="left">hello 👋</h3>
+<h3 align="left">☆ hello 👋 ☆</h3>
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240" height="200" alt="hi gif"></img>
 <hr>
 <h3 align="left">☆ learning... ☆</h3>
