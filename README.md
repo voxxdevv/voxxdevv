@@ -8,7 +8,7 @@
   
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"/> | html</p>
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEY4khDDf-5bMG2_c3QrnJLvd-nGsPmz6tw&s" alt="php" width="20" height="20"/> | php</p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEY4khDDf-5bMG2_c3QrnJLvd-nGsPmz6tw&s](https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" alt="php" width="20" height="20"/> | php</p>
 <hr>
 <h3 align="left">☆ working on... ☆</h3>
 <p align="left">🎮 | prisonsploit for prison life (roblox)</p>
