@@ -7,6 +7,8 @@
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"/> </a> | css</p>
   
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"/> </a> | html</p>
+
+<p align="left"><a href="https://www.w3.org/php/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"/> </a> | html</p>
 <hr>
 <h3 align="left">☆ working on... ☆</h3>
 <p align="left">🎮 | prisonsploit for prison life (roblox)</p>
