@@ -21,7 +21,7 @@
 - 🎮 | prisonsploit for prison life (roblox)
 - 📓 | [findout search: the simple digital encyclopedia](https://fos.rf.gd/)
 
-(view the full list of projects at my development team's site: https://bit.ly/voxxdevv ℹ️)
+(view the full list of projects at my dev team's site: https://bit.ly/voxxdevv ℹ️)
 
 ---
 
