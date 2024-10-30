@@ -1,5 +1,4 @@
-### ☆ greetings... 👋 ☆
-
+### ☆ greetings! 👋 ☆
 ![hi gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ---
@@ -16,14 +15,16 @@
 
 ---
 
-### ☆ i am working on... ☆
+### ☆ my current projects are... ☆
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
 - 💬 | [askgpt: your all-in-one ai hub (ios shortcut)](https://routinehub.co/shortcut/20473/)
 - 🎮 | prisonsploit for prison life (roblox)
 - 📓 | [findout search: the simple digital encyclopedia](https://fos.rf.gd/)
 
+(view the full list of projects at my development team's site: https://bit.ly/voxxdevv ℹ️)
+
 ---
 
-### ☆ my page stats... ☆
+### ☆ my page stats are... ☆
 
 ![itsaminowo page stats](https://github-readme-stats.vercel.app/api?username=itsaminowo&show_icons=true&locale=en)
