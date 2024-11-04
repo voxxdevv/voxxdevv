@@ -27,4 +27,4 @@
 
 ### ☆ my page stats are... ☆
 
-![itsaminowo page stats](https://github-readme-stats.vercel.app/api?username=itsaminowo&show_icons=true&locale=en)
+![itsaminowo page stats](https://github-readme-stats.vercel.app/api?username=voxxdevv&show_icons=true&locale=en)
