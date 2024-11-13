@@ -17,7 +17,7 @@
 
 ### ☆ my current projects are... ☆
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
-- 💬 | [askgpt: your all-in-one ai hub (ios shortcut)](https://routinehub.co/shortcut/20473/)
+- 📲 | [iphone 16 pro max emulator](https://iphone16promaxemulator.netlify.app)
 - ✍️ | [signit: an ipa signer](https://usesignit.netlify.app/)
 
 (view the full list of projects at my dev team's site: https://bit.ly/voxxdevv ℹ️)
