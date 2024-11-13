@@ -17,8 +17,8 @@
 
 ### ☆ my current projects are... ☆
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
-- 📲 | [iphone 16 pro max emulator](https://iphone16promaxemulator.netlify.app)
 - ✍️ | [signit: an ipa signer](https://usesignit.netlify.app/)
+- 📲 | [iphone 16 pro max emulator](https://iphone16promaxemulator.netlify.app)
 
 (view the full list of projects at my dev team's site: https://bit.ly/voxxdevv ℹ️)
 
