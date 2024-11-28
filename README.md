@@ -7,7 +7,7 @@
 - <img src="https://cdn.hackr.io/uploads/topics_svg/lua.svg" alt="lua" width="20" height="20"/> | lua
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"/> | css
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"/> | html
-- <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" alt="php" width="20" height="20"/> | php
+- <img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" alt="php" width="20" height="20"/> | php
 - <img src="https://github.com/user-attachments/assets/6aad64ab-f019-4e3f-b2f5-6215094dd1ac"
  alt="php" width="20" height="20"/> | basic machine learning with tensorflow
 - <img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
