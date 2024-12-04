@@ -18,7 +18,7 @@
 ### ☆ my current projects are... ☆
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
 - 🔲 | [tesseract: image logger](https://0tesseract.netlify.app)
-- 🎶 | [songify: free music without ads](https://songifystreaming.netlify.app/)
+- 🎶 | [songify: ad-free music](https://songifystreaming.netlify.app/)
 
 (view the full list of projects at my dev team's site: https://bit.ly/voxxdevv ℹ️)
 
