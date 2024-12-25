@@ -1,5 +1,3 @@
-<body style="background-color: white; color: black;">
-    
 ### ☆ greetings! 👋 ☆
 ![hi gif](https://tenor.com/view/swifferpics-taylor-swift-taylor-swift-eras-tour-lover-hello-gif-3589890796479250108)
 
@@ -28,9 +26,7 @@
 
 ### ☆ my most used languages are... ☆
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only" alt="voxxdevv's most used languages-Dark" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=default#gh-light-mode-only" alt="voxxdevv's most used languages-Light" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=transparent" alt="voxxdevv's most used languages" width="100%"/>
 
 ---
 
@@ -39,5 +35,3 @@
 [![voxxdevv's overall page stats-Dark](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only)
 
 [![voxxdevv's overall page stats-Light](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=default#gh-light-mode-only)
-
-</body>
