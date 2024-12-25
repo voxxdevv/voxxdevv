@@ -1,3 +1,8 @@
+<head>
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+</head>
+<body>
 <h3 align="center" width="100%"> ☆ greetings! 👋 ☆ </h3>
 
 <p align="center" width="100%">
@@ -42,3 +47,4 @@
 <p align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=30" alt="voxxdevv's overall page stats" width="70%"/>
 </p>
+</body>
