@@ -1,5 +1,5 @@
 ### ☆ greetings! 👋 ☆
-![hi gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![hi gif](https://media1.tenor.com/m/MdHaqMqW_rwAAAAC/swifferpics-taylor-swift.gif)
 
 ---
 
