@@ -1,5 +1,5 @@
 ### ☆ greetings! 👋 ☆
-<img src="https://tenor.com/view/swifferpics-taylor-swift-taylor-swift-eras-tour-lover-hello-gif-3589890796479250108" alt="hi gif" width="100%"/>
+<img src="https://tenor.com/view/swifferpics-taylor-swift-taylor-swift-eras-tour-lover-hello-gif-3589890796479250108.gif" alt="hi gif" width="100%"/>
 
 ---
 
