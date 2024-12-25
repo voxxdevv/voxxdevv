@@ -29,7 +29,7 @@
 
 ---
 
-### ☆ my most used languages are... ☆
+<h3 align="center" width="100%"> ☆ my most used languages are... ☆ </h3>
 
 <p align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=-60,ff69b4,32CD32&border_radius=30" alt="voxxdevv's most used languages" width="70%"/>
@@ -37,7 +37,7 @@
 
 ---
 
-### ☆ my overall page stats are... ☆
+<h3 align="center" width="100%"> ☆ my overall page stats are... ☆ </h3>
 
 <p align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=30" alt="voxxdevv's overall page stats" width="70%"/>
