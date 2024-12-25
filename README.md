@@ -5,6 +5,7 @@
 
 ---
 
+<p align="center">
 ### ☆ i am learning... ☆
 - <img src="https://cdn.hackr.io/uploads/topics_svg/lua.svg" alt="lua" width="20" height="20"/> | lua
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"/> | css
@@ -14,6 +15,7 @@
  alt="php" width="20" height="20"/> | basic machine learning with tensorflow
 - <img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
  alt="php" width="20" height="20"/> | ios shortcuts development (specifically block-based programming)
+</p>
 
 ---
 
