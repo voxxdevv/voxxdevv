@@ -1,4 +1,4 @@
-<h3 align="center"> ☆ greetings! 👋 ☆ </h3>
+<h3 align="center" width="100%"> ☆ greetings! 👋 ☆ </h3>
 
 <p align="center" width="100%">
 <img src="https://media2.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=6c09b952yyjwjvhpu8grmjajersk5c72fvlisfyblqx595ic&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="hi gif" width="70%"/>
@@ -6,7 +6,7 @@
 
 ---
 
-### ☆ i am learning... ☆
+<h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
 - <img src="https://cdn.hackr.io/uploads/topics_svg/lua.svg" alt="lua" width="20" height="20"/> | lua
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"/> | css
