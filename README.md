@@ -32,4 +32,4 @@
 
 ### ☆ my overall page stats are... ☆
 
-<img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=30" alt="voxxdevv's overall page stats" width="600px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=30" alt="voxxdevv's overall page stats" style="width:500px;margin:0 auto;"/>
