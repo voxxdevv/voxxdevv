@@ -9,9 +9,9 @@
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="20" height="20"/> | lua
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"/> | css
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"/> | html
-- <img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" alt="php" width="20" height="20"/> | php
+- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" alt="css 3" width="20" height="20"/> | css 3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" alt="html 5" width="20" height="20"/> | html 5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/> | php
 - <img src="https://github.com/user-attachments/assets/6aad64ab-f019-4e3f-b2f5-6215094dd1ac"
  alt="php" width="20" height="20"/> | basic machine learning with tensorflow
 - <img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
