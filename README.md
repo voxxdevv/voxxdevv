@@ -24,7 +24,13 @@
 
 ---
 
-### ☆ my page stats are... ☆
+### ☆ my most used languages are... ☆
 
-[![voxxdevv's page stats-Dark](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![voxxdevv's page stats-Light](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![voxxdevv's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=pie&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ☆ my overall page stats are... ☆
+
+[![voxxdevv's overall page stats-Dark](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![voxxdevv's overall page stats-Light](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
