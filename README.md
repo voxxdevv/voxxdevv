@@ -1,6 +1,7 @@
 ### ☆ greetings! 👋 ☆
 
-<img src="https://media2.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=6c09b952yyjwjvhpu8grmjajersk5c72fvlisfyblqx595ic&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="hi gif" width="70%" align="center"/>
+<p align="center">
+<img src="https://media2.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=6c09b952yyjwjvhpu8grmjajersk5c72fvlisfyblqx595ic&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="hi gif" width="70%"/>
 </p>
 
 ---
