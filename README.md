@@ -26,10 +26,10 @@
 
 ### ☆ my most used languages are... ☆
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=transparent" alt="voxxdevv's most used languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=true&show_icons=true&theme=transparent" alt="voxxdevv's most used languages" width="100%"/>
 
 ---
 
 ### ☆ my overall page stats are... ☆
 
-<img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=transparent" alt="voxxdevv's overall page stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=transparent" alt="voxxdevv's overall page stats" width="100%"/>
