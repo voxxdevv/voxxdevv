@@ -26,4 +26,5 @@
 
 ### ☆ my page stats are... ☆
 
-![voxxdevv's page stats](https://github-readme-stats.vercel.app/api?username=voxxdevv&show_icons=true&bg_color=00000000)
+[![voxxdevv's page stats-Dark](https://github-readme-stats.vercel.app/api?username=voxxdevv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![voxxdevv's page stats-Light](https://github-readme-stats.vercel.app/api?username=voxxdevv&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
