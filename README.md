@@ -32,6 +32,4 @@
 
 ### ☆ my overall page stats are... ☆
 
-[![voxxdevv's overall page stats-Dark](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only)
-
-[![voxxdevv's overall page stats-Light](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=default#gh-light-mode-only)
+<img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=false&show_icons=true&theme=transparent" alt="voxxdevv's overall page stats" width="100%"/>
