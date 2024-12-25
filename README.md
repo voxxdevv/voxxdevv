@@ -1,5 +1,5 @@
 ### ☆ greetings! 👋 ☆
-<div class="tenor-gif-embed" data-postid="3589890796479250108" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/swifferpics-taylor-swift-taylor-swift-eras-tour-lover-hello-gif-3589890796479250108">Swifferpics Taylor Swift GIF</a>from <a href="https://tenor.com/search/swifferpics-gifs">Swifferpics GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media2.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=6c09b952yyjwjvhpu8grmjajersk5c72fvlisfyblqx595ic&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="hi gif" width="100%"/>
 ---
 
 ### ☆ i am learning... ☆
