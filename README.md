@@ -1,7 +1,9 @@
 <h3 align="center" width="100%"> ☆ greetings! 👋 ☆ </h3>
 
 <p align="center" width="100%">
+    <kbd>
 <img src="https://media2.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=6c09b952yyjwjvhpu8grmjajersk5c72fvlisfyblqx595ic&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="hi gif" width="70%"/>
+    </kbd>
 </p>
 
 ---
