@@ -26,7 +26,7 @@
 
 ### ☆ my most used languages are... ☆
 
-[![voxxdevv's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=pie&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![voxxdevv's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=pie&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 ---
 
