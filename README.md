@@ -8,7 +8,7 @@
 
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
-- <img src="https://cdn.hackr.io/uploads/topics_svg/lua.svg" alt="lua" width="20" height="20"/> | lua
+- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="20" height="20"/> | lua
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"/> | css
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"/> | html
 - <img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" alt="php" width="20" height="20"/> | php
