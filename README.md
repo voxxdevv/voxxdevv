@@ -5,9 +5,8 @@
 
 ---
 
-<p align="center">
-<h1> ☆ i am learning... ☆ </h1>
-</p>
+### ☆ i am learning... ☆
+
 - <img src="https://cdn.hackr.io/uploads/topics_svg/lua.svg" alt="lua" width="20" height="20"/> | lua
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"/> | css
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"/> | html
