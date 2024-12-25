@@ -27,8 +27,8 @@
 ### ☆ my most used languages are... ☆
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only" alt="voxxdevv's most used languages-Dark" width="100%"/>
-[![voxxdevv's most used languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=dark#gh-dark-mode-only)
-[![voxxdevv's most used languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=default#gh-light-mode-only)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=false&show_icons=true&theme=default#gh-light-mode-only" alt="voxxdevv's most used languages-Light" width="100%"/>
 
 ---
 
