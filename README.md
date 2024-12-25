@@ -20,7 +20,7 @@
 - 🔲 | [tesseract: image logger](https://0tesseract.netlify.app)
 - 🎶 | [songify: ad-free music](https://songifystreaming.netlify.app/)
 
-(view the full list of projects at my dev team's site: https://bit.ly/voxxdevv ℹ️)
+(view the full list of projects at my dev team's site: https://voxxdevv.is-a.dev ℹ️)
 
 ---
 
