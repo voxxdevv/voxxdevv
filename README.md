@@ -26,7 +26,7 @@
 
 ### ☆ my most used languages are... ☆
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=true&show_icons=true&theme=transparent" alt="voxxdevv's most used languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=-60,ff69b4,32CD32&border_radius=30" alt="voxxdevv's most used languages" width="100%"/>
 
 ---
 
