@@ -28,8 +28,8 @@
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
 - 🔲 | [tesseract: image logger](https://0tesseract.netlify.app)
 - 🎶 | [songify: ad-free music](https://songifystreaming.netlify.app/)
-
-<h3 align="center" width="100%"> (view the full list of projects at my development team's site: https://voxxdevv.is-a.dev ℹ️) </h3>
+  
+<i><p align="center" width="100%"> (view the full list of projects at my development team's site: https://voxxdevv.is-a.dev ℹ️) </p></i>
 
 ---
 
