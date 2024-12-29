@@ -1,4 +1,4 @@
-<h3 align="center" width="100%"> ☆ greetings! 👋 ☆ </h3>
+<h2 align="center" width="100%"> ☆ greetings! 👋 ☆ </h2>
 
 <p align="center" width="100%">
 
@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
+<h2 align="center" width="100%"> ☆ i am learning... ☆ </h2>
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="20" height="20"/> | lua
 - <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" alt="css 3" width="20" height="20"/> | css 3
@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
+<h2 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h2>
 
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
 <small>website</small>
@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="center" width="100%"> ☆ my most used languages are... ☆ </h3>
+<h2 align="center" width="100%"> ☆ my most used languages are... ☆ </h2>
 
 <p align="center" width="100%">
 
@@ -48,7 +48,7 @@
 
 ---
 
-<h3 align="center" width="100%"> ☆ my overall page stats are... ☆ </h3>
+<h2 align="center" width="100%"> ☆ my overall page stats are... ☆ </h2>
 
 <p align="center" width="100%">
 
