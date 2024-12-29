@@ -20,7 +20,7 @@
  alt="php" width="30" height="30"/> • basic machine learning with tensorflow</p>
 <p align="center" width="100%"><img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
  alt="php" width="30" height="30"/> • ios shortcuts development (specifically block-based programming)</p>
-
+ 
 <hr width="40%">
 
 <h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
