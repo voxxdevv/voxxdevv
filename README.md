@@ -25,7 +25,7 @@
 
 <h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
 
-- 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/) <b><sup><sub>website</sub></sup></b>
+- 🤖 | <a href="https://ridgpt.github.io/">ridgpt: check content for ai involvement</a> <b><sup><sub>website</sub></sup></b>
 
 - 💬 | [askgpt: all-in-one ai hub](https://routinehub.co/shortcut/20473/?) <b><sup><sub>shortcut</sub></sup></b>
 
