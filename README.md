@@ -13,7 +13,7 @@
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
 <p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="30" height="30"/> • lua</p>
-<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" alt="css 3" width="30" height="30"/> • css 3</p>
+<p align="center" width="100%"> <img src="svgs/js.svg" alt="css 3" width="30" height="30"/> • css 3</p>
 <p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" alt="html 5" width="30" height="30"/> • html 5</p>
 <p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" alt="php" width="30" height="30"/> • php</p>
 <p align="center" width="100%"> <img src="https://github.com/user-attachments/assets/6aad64ab-f019-4e3f-b2f5-6215094dd1ac"
