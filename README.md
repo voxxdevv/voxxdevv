@@ -8,7 +8,7 @@
 
 </p>
 
-<hr>
+<hr width="80%">
 
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
