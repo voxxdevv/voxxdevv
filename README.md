@@ -27,12 +27,15 @@
 
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
 
-<small>website</small>
+<sup><sub>website</sub></sup>
 
 - 💬 | [askgpt: all-in-one ai hub](https://routinehub.co/shortcut/20473/?)
-<small>shortcut</small>
+
+<sup><sub>shortcut</sub></sup>
+
 - 🎶 | [songify: ad-free music](https://songifystreaming.netlify.app/?)
-<small>website</small>
+
+<sup><sub>website</sub></sup>
 
 <b><i><p align="center" width="100%"> view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ℹ️ </p></i></b>
 
