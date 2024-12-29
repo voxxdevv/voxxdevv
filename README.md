@@ -1,4 +1,4 @@
-<h3 align="center" width="100%"> ☆ greetings! 👋 ☆ </h3>
+<h3 align="center" width="100%"> ☆ greetings! ☆ </h3>
 
 <p align="center" width="100%">
 
