@@ -1,4 +1,4 @@
-### ☆ greetings! 👋 ☆
+<h3 align="center"> ☆ greetings! 👋 ☆ </h3>
 
 <p align="center">
   <kbd>
@@ -8,7 +8,7 @@
 
 ---
 
-### ☆ i am currently learning... ☆
+<h3 align="center"> ☆ i am currently learning... ☆ </h3>
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="20" height="20"/> | lua
 - <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" alt="css3" width="20" height="20"/> | css3
@@ -19,7 +19,7 @@
 
 ---
 
-### ☆ my current top 3 projects are... ☆
+<h3 align="center"> ☆ my current top 3 projects are... ☆ </h3>
 
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)  
   <small>website</small>
@@ -34,7 +34,7 @@
 
 ---
 
-### ☆ my most used languages are... ☆
+<h3 align="center"> ☆ my most used languages are... ☆ </h3>
 
 <p align="center">
   <kbd>
@@ -44,7 +44,7 @@
 
 ---
 
-### ☆ my overall page stats are... ☆
+<h3 align="center"> ☆ my overall page stats are... ☆ </h3>
 
 <p align="center">
   <kbd>
