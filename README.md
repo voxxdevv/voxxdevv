@@ -29,7 +29,7 @@
 
 <p align="left" width="100%"> 💬 • <a href="https://routinehub.co/shortcut/20473/?">askgpt: all-in-one ai hub</a> <b><sup><sub>shortcut</sub></sup></b>
 
-<p align="left" width="100%"> <img src="https://raw.githubusercontent.com/voxxdevv/Songify/refs/heads/main/ico/favicon.ico" alt="ridgpt: check content for ai involvement" width="20" height="20"/> • <a href="https://songifystreaming.netlify.app/?">songify: ad-free music</a> <b><sup><sub>website</sub></sup></b>
+<p align="left" width="100%"> <img src="https://songifystreaming.netlify.app/ico/favicon.ico" alt="songify: ad-free music" width="20" height="20"/> • <a href="https://songifystreaming.netlify.app/?">songify: ad-free music</a> <b><sup><sub>website</sub></sup></b>
 
 <b><i><p align="center" width="100%"> view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ℹ️ </p></i></b>
 
