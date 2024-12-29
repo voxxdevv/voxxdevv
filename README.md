@@ -8,7 +8,7 @@
 
 </p>
 
-<hr width="30%">
+<hr width="40%">
 
 <h3 align="left" width="100%"> ☆ i am learning... ☆ </h3>
 
@@ -21,7 +21,7 @@
 <p align="left" width="100%"><img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
  alt="php" width="20" height="20"/> • ios shortcuts development (specifically block-based programming)</p>
 
----
+<hr width="40%">
 
 <h3 align="left" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
 
@@ -31,7 +31,7 @@
 
 <b><i><p align="left" width="100%"> view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ℹ️ </p></i></b>
 
----
+<hr width="40%">
 
 <h3 align="left" width="100%"> ☆ my most used languages are... ☆ </h3>
 
@@ -43,7 +43,7 @@
 
 </p>
 
----
+<hr width="40%">
 
 <h3 align="left" width="100%"> ☆ my overall page stats are... ☆ </h3>
 
