@@ -25,11 +25,11 @@
 
 <h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
 
-- 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/) <sup><sub>website</sub></sup>
+- 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/) <b><sup><sub>website</sub></sup></b>
 
-- 💬 | [askgpt: all-in-one ai hub](https://routinehub.co/shortcut/20473/?) <sup><sub>shortcut</sub></sup>
+- 💬 | [askgpt: all-in-one ai hub](https://routinehub.co/shortcut/20473/?) <b><sup><sub>shortcut</sub></sup></b>
 
-- 🎶 | [songify: ad-free music](https://songifystreaming.netlify.app/?) <sup><sub>website</sub></sup>
+- 🎶 | [songify: ad-free music](https://songifystreaming.netlify.app/?) <b><sup><sub>website</sub></sup></b>
 
 <b><i><p align="center" width="100%"> view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ℹ️ </p></i></b>
 
