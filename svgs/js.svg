@@ -6,5 +6,5 @@
   <text x="50" y="30" fill="black" font-family="Verdana, Geneva, sans-serif" font-size="20" text-anchor="start">JavaScript</text>
 
   <!-- Icon (JavaScript Logo) -->
-  <image x="170" y="10" width="30" height="30" href="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/javascript.svg" />
+  <image x="160" y="10" width="30" height="30" href="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/javascript.svg" />
 </svg>
