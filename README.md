@@ -12,24 +12,22 @@
 
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
-<p align="left" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="20" height="20"/> • lua</p>
-<p align="left" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" alt="css 3" width="20" height="20"/> • css 3</p>
-<p align="left" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" alt="html 5" width="20" height="20"/> • html 5</p>
-<p align="left" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/> • php</p>
-<p align="left" width="100%"> <img src="https://github.com/user-attachments/assets/6aad64ab-f019-4e3f-b2f5-6215094dd1ac"
+<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="20" height="20"/> • lua</p>
+<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" alt="css 3" width="20" height="20"/> • css 3</p>
+<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" alt="html 5" width="20" height="20"/> • html 5</p>
+<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/> • php</p>
+<p align="center" width="100%"> <img src="https://github.com/user-attachments/assets/6aad64ab-f019-4e3f-b2f5-6215094dd1ac"
  alt="php" width="20" height="20"/> • basic machine learning with tensorflow</p>
-<p align="left" width="100%"><img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
+<p align="center" width="100%"><img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
  alt="php" width="20" height="20"/> • ios shortcuts development (specifically block-based programming)</p>
 
 ---
 
 <h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
 
-<p align="left" width="100%"> <img src="https://raw.githubusercontent.com/ridgpt/ridgpt.github.io/refs/heads/main/ico/favicon.ico" alt="ridgpt: check content for ai involvement" width="20" height="20"/> • <a href="https://ridgpt.github.io/">ridgpt: check content for ai involvement</a> <b><sup><sub>website</sub></sup></b>
-
-<p align="left" width="100%"> 💬 • <a href="https://routinehub.co/shortcut/20473/?">askgpt: all-in-one ai hub</a> <b><sup><sub>shortcut</sub></sup></b>
-
-<p align="left" width="100%"> <img src="https://songifystreaming.netlify.app/ico/favicon.ico" alt="songify: ad-free music" width="20" height="20"/> • <a href="https://songifystreaming.netlify.app/?">songify: ad-free music</a> <b><sup><sub>website</sub></sup></b>
+<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/ridgpt/ridgpt.github.io/refs/heads/main/ico/favicon.ico" alt="ridgpt: check content for ai involvement" width="20" height="20"/> • <a href="https://ridgpt.github.io/">ridgpt: check content for ai involvement</a> <b><sup><sub>website</sub></sup></b>
+<p align="center" width="100%"> 💬 • <a href="https://routinehub.co/shortcut/20473/?">askgpt: all-in-one ai hub</a> <b><sup><sub>shortcut</sub></sup></b>
+<p align="center" width="100%"> <img src="https://songifystreaming.netlify.app/ico/favicon.ico" alt="songify: ad-free music" width="20" height="20"/> • <a href="https://songifystreaming.netlify.app/?">songify: ad-free music</a> <b><sup><sub>website</sub></sup></b>
 
 <b><i><p align="center" width="100%"> view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ℹ️ </p></i></b>
 
