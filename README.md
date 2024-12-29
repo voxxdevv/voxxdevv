@@ -27,8 +27,10 @@
 
 - 🤖 | [ridgpt: check content for ai involvement](https://ridgpt.github.io/)
 <sup><sub>website</sub></sup>
+
 - 💬 | [askgpt: all-in-one ai hub](https://routinehub.co/shortcut/20473/?)
 <sup><sub>shortcut</sub></sup>
+
 - 🎶 | [songify: ad-free music](https://songifystreaming.netlify.app/?)
 <sup><sub>website</sub></sup>
 
