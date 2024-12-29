@@ -9,7 +9,7 @@
   </g>
 
   <!-- Text -->
-  <text x="175" y="36" fill="black" font-family="Verdana, Geneva, sans-serif" font-size="20" text-anchor="middle" alignment-baseline="middle">
+  <text x="175" y="36" fill="black" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" alignment-baseline="middle">
     JavaScript
   </text>
 </svg>
