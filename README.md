@@ -18,8 +18,8 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/> | php
 - <img src="https://github.com/user-attachments/assets/6aad64ab-f019-4e3f-b2f5-6215094dd1ac"
  alt="php" width="20" height="20"/> | basic machine learning with tensorflow
-- <img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
- alt="php" width="20" height="20"/> | ios shortcuts development (specifically block-based programming)
+<p> <img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
+ alt="php" width="20" height="20"/> | ios shortcuts development (specifically block-based programming)</p>
 
 ---
 
