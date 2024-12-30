@@ -1,8 +1,8 @@
-<h1 align="center" width="100%">
+<p align="center" width="100%">
 <kbd>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="18.72px" height="18.72px"/>
 </kbd>
-</h1>
+</p>
 
 <h1 align="center" width="100%">
     <kbd>
