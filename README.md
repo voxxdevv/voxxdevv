@@ -1,3 +1,4 @@
+<kbd>
 <p align="center" width="100%">
 <kbd>
 <img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&color=000000&center=true&vCenter=true&width=435&height=100&lines=%E0%BC%BB+greetings!+%E0%BC%BA;%2F+%40voxxdevv+%2F" />
@@ -60,5 +61,5 @@
 <kbd>
 <img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=0" alt="voxxdevv's overall page stats" width="100%"/>
 </kbd>
-
 </p>
+</kbd>
