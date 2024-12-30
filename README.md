@@ -6,7 +6,7 @@
 <a href="https://tiktok.com/@vxmpzghxst"><img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-
+<hr width="100%">
 <p align="center" width="100%">
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 <p align="center" width="100%">
