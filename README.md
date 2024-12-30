@@ -1,4 +1,6 @@
+<kbd>
 # <p align="center" width="100%">༻ greetings! ༺</p>
+</kbd>
 
 <kbd>
 <p align="center" width="100%">
