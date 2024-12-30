@@ -13,6 +13,7 @@
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
 <p align="center">
+<kbd>
 <img src="https://img.shields.io/badge/Basic machine learning with TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-0080FF?style=for-the-badge&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,6 +22,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap 5-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</kbd>
 </p>
 
 <hr width="100%">
