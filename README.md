@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,lua,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,lua,tensorflow,shortcuts" />
   </a>
 </p>
 
