@@ -9,7 +9,7 @@
 
 <hr width="100%">
 
-<h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
+<h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 
 <p align="center">
 <kbd>
