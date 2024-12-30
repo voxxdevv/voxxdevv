@@ -1,9 +1,9 @@
-<h1 align="center" width="100%">
+<p align="center" width="100%">
     <kbd>
 ༻ greetings! ༺
 <p align="center" width="100%"> ⓘ view the full list of projects at my <a href="https://voxxdevv.is-a.dev">development team's site</a>. ⓘ </p>
 </kbd>
-</h1>
+</p>
 
 <kbd>
 
