@@ -36,7 +36,7 @@
 </kbd>
 </p>
 
-<p align="center" width="100%"> ⓘ view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ⓘ </p>
+<p align="center" width="100%"> ⓘ view the full list of projects at my <a href="https://voxxdevv.is-a.dev">development team's site</a>. ⓘ </p>
 
 <hr width="100%">
 
