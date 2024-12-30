@@ -31,7 +31,7 @@
 <p align="center">
 <kbd>
 <a href="https://ridgpt.github.io/?"><img src="https://img.shields.io/badge/ridgpt%3A%20check%20content%20for%20ai%20involvement-007aff?style=for-the-badge&label=1&labelColor=%23000000" /></a>
-<a href="https://routinehub.co/shortcut/20473/?"><img src="https://img.shields.io/badge/askgpt%3A%20ai%20hub-948A85?style=for-the-badge&label=2&labelColor=%23000000" /></a>
+<a href="https://routinehub.co/shortcut/20473/?"><img src="https://img.shields.io/badge/askgpt: all–in–one ai hub-948A85?style=for-the-badge&label=2&labelColor=%23000000" /></a>
 <a href="https://songifystreaming.netlify.app/?"><img src="https://img.shields.io/badge/songify%3A%20ad%E2%80%93free%20music-98AE27?style=for-the-badge&label=3&labelColor=%23000000" /></a>
 </kbd>
 </p>
