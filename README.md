@@ -1,4 +1,4 @@
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/121653089?s=400&u=6ffc4c70f77a9a76e6b5c4e6a4a46d0fefb4f48d&v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/121653089?s=400&u=6ffc4c70f77a9a76e6b5c4e6a4a46d0fefb4f48d&v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" />
 
 <p align="center" width="100%"><sub>/<a href="https://github.com/voxxdevv"> @voxxdevv </a>/</sub></p>
 
