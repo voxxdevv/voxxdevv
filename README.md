@@ -25,7 +25,7 @@
 </kbd>
 </p>
 
-<h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
+<h3 align="left" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
 
 <hr width="100%">
 
