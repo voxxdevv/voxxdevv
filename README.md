@@ -8,7 +8,7 @@
 
 </p>
 
-<hr width="40%">
+<hr width="100%">
 
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<hr width="40%">
+<hr width="100%">
 
 <h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
 
@@ -33,7 +33,7 @@
 
 <b><i><p align="center" width="100%"> view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ℹ️ </p></i></b>
 
-<hr width="40%">
+<hr width="100%">
 
 <h3 align="center" width="100%"> ☆ my most used languages are... ☆ </h3>
 
@@ -45,7 +45,7 @@
 
 </p>
 
-<hr width="40%">
+<hr width="100%">
 
 <h3 align="center" width="100%"> ☆ my overall page stats are... ☆ </h3>
 
