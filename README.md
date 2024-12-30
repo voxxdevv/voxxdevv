@@ -1,4 +1,4 @@
-<a align="center" width="100%" href="https://github.com/voxxdevv"><sub>/ @voxxdevv /</sub></a>
+<a href="https://github.com/voxxdevv"><p align="center" width="100%"><sub>/ @voxxdevv /</sub></p></a>
 # <p align="center" width="100%">༻ greetings! ༺</p>
 
 <kbd>
