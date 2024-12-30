@@ -1,4 +1,4 @@
-<sub align="center" width="100%">༻ greetings! ༺</sub>
+<sub align="center" width="100%">/ @voxxdevv /</sub>
 # <p align="center" width="100%">༻ greetings! ༺</p>
 
 <kbd>
