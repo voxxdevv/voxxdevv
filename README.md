@@ -12,15 +12,12 @@
 
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
-<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-plain.svg" alt="lua" width="30" height="30"/> • lua</p>
-<p align="center" width="100%"> <img src="svgs/js.svg" alt="javascript"/></p>
-<p align="center" width="100%"> <img src="svgs/css.svg" alt="css 3"/></p>
-<p align="center" width="100%"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-plain.svg" alt="php" width="30" height="30"/> • php</p>
-<p align="center" width="100%"> <img src="https://github.com/user-attachments/assets/6aad64ab-f019-4e3f-b2f5-6215094dd1ac"
- alt="php" width="30" height="30"/> • basic machine learning with tensorflow</p>
-<p align="center" width="100%"><img src="https://github.com/user-attachments/assets/2f6528fc-c03e-4870-973c-16aafab6a27e"
- alt="php" width="30" height="30"/> • ios shortcuts development (specifically block-based programming)</p>
- 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <hr width="40%">
 
 <h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
