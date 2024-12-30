@@ -1,8 +1,5 @@
-<p align="center" width="100%">
-<kbd>
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=55&color=000000&center=true&vCenter=true&width=435&height=100&lines=%E0%BC%BB+greetings!+%E0%BC%BA;%2F+%40voxxdevv+%2F" />
-</kbd>
-</p>
+<h1 align="center" width="100%">༻ greetings! ༺</h1>
+
 <kbd>
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 
