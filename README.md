@@ -13,7 +13,7 @@
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine learning with TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
 </p>
 
