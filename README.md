@@ -1,10 +1,10 @@
-<a href="https://github.com/voxxdevv"><p align="center" width="100%"> / @voxxdevv / </p></a>
+<p align="center" width="100%"><a href="https://github.com/voxxdevv"> / @voxxdevv / </a></p>
 <h1 align="center" width="100%">༻ greetings! ༺</h1>
 
 <kbd>
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 
-<p align="center">
+<p align="center" width="100%">
 <kbd>
 <img src="https://img.shields.io/badge/basic machine learning with tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-0080FF?style=for-the-badge&logo=lua&logoColor=white" />
