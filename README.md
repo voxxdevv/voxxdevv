@@ -30,12 +30,11 @@
 <hr width="100%">
 
 <p align="center">
-<a href="https://ridgpt.github.io"><img src="https://img.shields.io/badge/ridgpt%3A%20check%20content%20for%20ai%20involvement-007aff?style=for-the-badge&label=1&labelColor=%23000000" /></a>
+<a href="https://ridgpt.github.io/?"><img src="https://img.shields.io/badge/ridgpt%3A%20check%20content%20for%20ai%20involvement-007aff?style=for-the-badge&label=1&labelColor=%23000000" /></a>
 <a href="https://routinehub.co/shortcut/20473/?"><img src="https://img.shields.io/badge/askgpt%3A%20ai%20hub-948A85?style=for-the-badge&label=2&labelColor=%23000000" /></a>
+<a href="https://songifystreaming.netlify.app/?"><img src="https://img.shields.io/badge/songify%3A%20ad%E2%80%93free%20music-98AE27?style=for-the-badge&label=3&labelColor=%23000000
+" /></a>
 </p>
-
-<p align="center" width="100%"> 💬 • <a href="https://routinehub.co/shortcut/20473/?">askgpt: all-in-one ai hub</a> <b><sup><sub>shortcut</sub></sup></b>
-<p align="center" width="100%"> <img src="https://songifystreaming.netlify.app/ico/favicon.ico" alt="songify: ad-free music" width="30" height="30"/> • <a href="https://songifystreaming.netlify.app/?">songify: ad-free music</a> <b><sup><sub>website</sub></sup></b>
 
 <b><i><p align="center" width="100%"> view the full list of projects at my [development team's site](https://voxxdevv.is-a.dev). ℹ️ </p></i></b>
 
