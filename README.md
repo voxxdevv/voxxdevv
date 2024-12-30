@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap 5-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/block–based programming with ios shortcuts-563d7c?style=for-the-badge&logo=shortcuts&logoColor=white" />
+<img src="https://img.shields.io/badge/block–based programming with ios shortcuts-3171E0?style=for-the-badge&logo=shortcuts&logoColor=white" />
 </kbd>
 </p>
 
