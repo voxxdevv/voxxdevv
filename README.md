@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&color=000000&center=true&vCenter=true&hCenter=true&width=435&height=50&lines=%E0%BC%BB+greetings!+%E0%BC%BA;%2F+%40voxxdevv+%2F" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&color=000000&center=true&vCenter=true&width=435&height=50&lines=%E0%BC%BB+greetings!+%E0%BC%BA;%2F+%40voxxdevv+%2F" />
 </p>
 <kbd>
 <p align="center" width="100%">
