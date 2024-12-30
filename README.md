@@ -1,10 +1,8 @@
 <p align="center" width="100%">
     <kbd>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
-</p>
 </kbd>
-<p align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&color=000000&width=435&lines=%E2%98%86+greetings!+%E2%98%86;%2F+%40voxxdevv+%2F" />
+<img src="font=Arial&size=50&pause=1000&color=000000&center=true&width=435&lines=%E2%98%86+greetings!+%E2%98%86;%2F+%40voxxdevv+%2F" />
 </p>
 
 <hr width="100%">
