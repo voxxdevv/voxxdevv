@@ -5,8 +5,6 @@
 </p>
 <kbd>
 
-<hr width="100%">
-
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 
 <p align="center">
