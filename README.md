@@ -11,7 +11,6 @@
 
 
 <kbd>
-<h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 
 <p align="center" width="100%">
 <kbd>
