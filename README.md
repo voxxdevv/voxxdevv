@@ -1,8 +1,8 @@
-<kbd>
 <p align="center" width="100%">
 <kbd>
 <img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&color=000000&center=true&vCenter=true&width=435&height=100&lines=%E0%BC%BB+greetings!+%E0%BC%BA;%2F+%40voxxdevv+%2F" />
 </kbd>
+<kbd>
 <kbd>
 <img src="https://media3.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=6c09b9522tgy3mthya9hsn66wvtn4sey7maxpwbw8f0a57k7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </kbd>
