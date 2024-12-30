@@ -1,7 +1,6 @@
 # <p align="center" width="100%">༻ greetings! ༺</p>
 
 <kbd>
-    <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 <p align="center" width="100%">
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/121653089?s=400&u=6ffc4c70f77a9a76e6b5c4e6a4a46d0fefb4f48d&v=4&h=90&w=90&fit=cover&mask=circle&maxage=7d" />
 </p>
@@ -14,6 +13,7 @@
 
 <p align="center" width="100%">
 <kbd>
+    <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 <img src="https://img.shields.io/badge/basic machine learning with tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-0080FF?style=for-the-badge&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
