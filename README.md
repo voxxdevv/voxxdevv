@@ -30,8 +30,9 @@
 <hr width="100%">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ridgpt/ridgpt.github.io/refs/heads/main/ico/favicon.ico" />
-<a href="https://ridgpt.github.io/">ridgpt: check content for ai involvement</a> <b><sup><sub>website</sub></sup></b>
+<object src="https://img.shields.io/badge/ridgpt%3A%20check%20content%20for%20ai%20involvement-007aff?style=for-the-badge&label=1&labelColor=%23000000&link=https%3A%2F%2Fridgpt.github.io%2F
+" />
+
 <p align="center" width="100%"> 💬 • <a href="https://routinehub.co/shortcut/20473/?">askgpt: all-in-one ai hub</a> <b><sup><sub>shortcut</sub></sup></b>
 <p align="center" width="100%"> <img src="https://songifystreaming.netlify.app/ico/favicon.ico" alt="songify: ad-free music" width="30" height="30"/> • <a href="https://songifystreaming.netlify.app/?">songify: ad-free music</a> <b><sup><sub>website</sub></sup></b>
 
