@@ -31,8 +31,7 @@
 
 <p align="center">
 <a href="https://ridgpt.github.io"><img src="https://img.shields.io/badge/ridgpt%3A%20check%20content%20for%20ai%20involvement-007aff?style=for-the-badge&label=1&labelColor=%23000000" /></a>
-<a href="https://routinehub.co/shortcut/20473/?"><img src="https://img.shields.io/badge/askgpt%3A%20ai%20hub-948A85?style=for-the-badge&label=2&labelColor=%23000000
-" /></a>
+<a href="https://routinehub.co/shortcut/20473/?"><img src="https://img.shields.io/badge/askgpt%3A%20ai%20hub-948A85?style=for-the-badge&label=2&labelColor=%23000000" /></a>
 </p>
 
 <p align="center" width="100%"> 💬 • <a href="https://routinehub.co/shortcut/20473/?">askgpt: all-in-one ai hub</a> <b><sup><sub>shortcut</sub></sup></b>
