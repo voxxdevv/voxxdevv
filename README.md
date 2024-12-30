@@ -1,4 +1,5 @@
 # <p align="center" width="100%">༻ greetings! ༺</p>
+<sub align="center" width="100%">༻ greetings! ༺</sub>
 
 <kbd>
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
