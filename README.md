@@ -4,11 +4,11 @@
 </kbd>
 </p>
 
-<p align="center" width="100%">
+<h1 align="center" width="100%">
 <kbd>
 ༻ greetings! ༺
 </kbd>
-</p>
+</h1>
 
 <kbd>
 
