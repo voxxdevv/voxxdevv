@@ -30,7 +30,7 @@
 <hr width="100%">
 
 <p align="center">
-<object src="https://img.shields.io/badge/ridgpt%3A%20check%20content%20for%20ai%20involvement-007aff?style=for-the-badge&label=1&labelColor=%23000000&link=https%3A%2F%2Fridgpt.github.io%2F
+<img src="https://img.shields.io/badge/ridgpt%3A%20check%20content%20for%20ai%20involvement-007aff?style=for-the-badge&label=1&labelColor=%23000000&link=https%3A%2F%2Fridgpt.github.io%2F
 " />
 
 <p align="center" width="100%"> 💬 • <a href="https://routinehub.co/shortcut/20473/?">askgpt: all-in-one ai hub</a> <b><sup><sub>shortcut</sub></sup></b>
