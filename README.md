@@ -1,5 +1,7 @@
 <p align="center" width="100%">
+<kbd>
 <img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&color=000000&center=true&vCenter=true&width=435&height=100&lines=%E0%BC%BB+greetings!+%E0%BC%BA;%2F+%40voxxdevv+%2F" />
+</kbd>
 </p>
 <p align="center" width="100%">
 <a href="https://github.com/voxxdevv"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
