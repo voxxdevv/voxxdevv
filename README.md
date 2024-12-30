@@ -3,7 +3,7 @@
 </p>
 <p align="center" width="100%">
 <a href="https://github.com/voxxdevv"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/voxxdevv"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=routinehub&logoColor=white" /></a>
+<a href="https://routinehub.co/user/taylorswift#"><img src="https://img.shields.io/badge/routinehub-DB473F?style=for-the-badge&logo=routinehub&logoColor=white" /></a>
 </p>
 <hr width="100%">
 <kbd>
