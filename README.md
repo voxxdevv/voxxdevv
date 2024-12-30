@@ -1,6 +1,6 @@
-<h1 align="center" width="100%">༻ greetings! ༺</h1>
-
 <p align="center" width="100%"><a href="https://github.com/voxxdevv"> / @voxxdevv / </a></p>
+
+<h1 align="center" width="100%">༻ greetings! ༺</h1>
 
 <kbd>
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
