@@ -1,5 +1,5 @@
-<p align="center" width="auto"> 
-    <img src="images/heading.png" height="100px" width="500px" />
+<p align="center" width="100%"> 
+    <img src="images/heading.png" height="50px" width="500px" />
  </p>
 <p align="center" width="100%">
 <a href="https://github.com/voxxdevv"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
