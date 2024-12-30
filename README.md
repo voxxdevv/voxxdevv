@@ -39,7 +39,7 @@
 <p align="center" width="100%">
 
 <kbd>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=-60,ff69b4,32CD32&border_radius=0" alt="voxxdevv's most used languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxxdevv&layout=donut&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=-60,ff69b4,32CD32&border_radius=0" alt="voxxdevv's most used languages" width="75%" height: "75%"/>
 </kbd>
 
 </p>
@@ -51,7 +51,7 @@
 <p align="center" width="100%">
 
 <kbd>
-<img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=0" alt="voxxdevv's overall page stats" width="50%" height: "50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=0" alt="voxxdevv's overall page stats" width="75%" height: "75%"/>
 </kbd>
 </p>
 </kbd>
