@@ -1,4 +1,4 @@
-<kbd>
+<kbd align="center">
 <h1 align="center" width="100%">greetings!</h1>
 </kbd>
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
