@@ -1,9 +1,9 @@
-<p align="center" width="100%">
+<h1 align="center" width="100%">
     <kbd>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="20%" height="20%"/>
-<h1 align="center" width="100%">༻ greetings! ༺</h1>
+༻ greetings! ༺
 </kbd>
-</p>
+</h1>
 
 <kbd>
 
