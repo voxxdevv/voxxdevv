@@ -9,6 +9,7 @@
 
 <p align="center" width="100%">
     <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
+<kbd>
 <img src="https://img.shields.io/badge/basic machine learning with tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-0080FF?style=for-the-badge&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
