@@ -25,9 +25,9 @@
 </kbd>
 </p>
 
-<hr width="100%">
-
 <h3 align="center" width="100%"> ☆ my current top 3 projects are... ☆ </h3>
+
+<hr width="100%">
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ridgpt/ridgpt.github.io/refs/heads/main/ico/favicon.ico" />
