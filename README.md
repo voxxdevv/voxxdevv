@@ -8,7 +8,7 @@
 <a href="https://tiktok.com/@vxmpzghxst"><img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-<hr width="100%">
+<kbd>
 <p align="center" width="100%">
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
 <p align="center" width="100%">
@@ -62,3 +62,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=0" alt="voxxdevv's overall page stats" width="100%" height: "100%"/>
 </kbd>
 </p>
+</kbd>
