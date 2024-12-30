@@ -1,5 +1,5 @@
 <kbd>
-# <p align="center" width="100%">༻ greetings! ༺</p>
+<h1 align="center" width="100%">༻ greetings! ༺</h1>
 </kbd>
 
 <kbd>
