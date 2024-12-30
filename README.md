@@ -1,5 +1,5 @@
 <h1 align="left" width="100%">greetings!</h1>
-<h1 align="right" width="100%">– voxxdevv</h1>
+<span align="right" width="100%">– voxxdevv</span>
 
 <kbd>
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
