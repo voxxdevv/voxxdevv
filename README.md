@@ -1,4 +1,4 @@
-<p align="center" width="100%"> 
+<p align="center" width="auto"> 
     <img src="images/heading.png" height="100px" width="500px" />
  </p>
 <p align="center" width="100%">
