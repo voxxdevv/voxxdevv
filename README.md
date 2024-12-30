@@ -8,9 +8,9 @@
 
 </p>
 
-<hr width="100%">
+<h3 align="left" width="100%"> ☆ i am learning... ☆ </h3>
 
-<h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
+<hr width="100%">
 
 <p align="center">
 <kbd>
