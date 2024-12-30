@@ -1,4 +1,3 @@
-<kbd>
 <p align="center" width="100%">
 <kbd>
 <h1>greetings!</h1>
@@ -57,4 +56,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=voxxdevv&hide_border=true&show_icons=true&theme=ambient_gradient&bg_color=60,ff69b4,32CD32&border_radius=0" alt="voxxdevv's overall page stats" width="100%"/>
 </kbd>
 </p>
-</kbd>
