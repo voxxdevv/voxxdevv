@@ -1,6 +1,6 @@
 <p align="center" width="100%">
 <kbd>
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&color=000000&center=true&width=435&height=30&lines=༻ greetings! ༺;%2F+%40voxxdevv+%2F" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&color=000000&center=true&width=435&height=100&lines=༻ greetings! ༺;%2F+%40voxxdevv+%2F" />
 </kbd>
 </p>
 
