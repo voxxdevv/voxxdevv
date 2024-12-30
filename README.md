@@ -13,8 +13,7 @@
 <h3 align="center" width="100%"> ☆ i am learning... ☆ </h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,lua,tensorflow,php" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
 </p>
 
