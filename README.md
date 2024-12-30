@@ -1,6 +1,6 @@
 <p align="center" width="100%">
 <kbd>
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&color=000000&center=true&width=435&lines=%E2%98%86+greetings!+%E2%98%86;%2F+%40voxxdevv+%2F" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&pause=1000&color=000000&center=true&width=435&lines=%E2%98%86+greetings!+%E2%98%86;%2F+%40voxxdevv+%2F" />
 </kbd>
 </p>
 
