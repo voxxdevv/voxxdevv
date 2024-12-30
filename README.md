@@ -1,4 +1,4 @@
-<h1 align="left" width="100%">greetings!</h1>
+<h1 align="left" width="100%">greetings! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h1>
 
 <kbd>
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
