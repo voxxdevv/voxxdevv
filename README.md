@@ -33,7 +33,7 @@
 
 <p align="center" width="100%">
 <kbd>
-<a href="https://nft.itis.top/pai"><img src="https://img.shields.io/badge/paletteai-ff453a?style=for-the-badge" /></a>
+<a href="https://nft.itis.top/pai"><img src="https://img.shields.io/badge/⫘ paletteai-ff453a?style=for-the-badge" /></a>
 
 </kbd>
 </p>
