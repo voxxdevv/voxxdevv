@@ -33,7 +33,7 @@
 
 <p align="center" width="100%">
 <kbd>
-<a href="https://endgpt.netlify.app/?"><img src="https://img.shields.io/badge/endgpt-9013FE?style=for-the-badge&labelColor=121419" /></a>
+<a href="https://endgpt.netlify.app/?"><img src="https://img.shields.io/badge/endgpt-9013FE?style=for-the-badge" /></a>
 
 </kbd>
 </p>
