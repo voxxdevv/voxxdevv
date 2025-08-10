@@ -9,8 +9,6 @@
 <a href="https://x.com/@voxxdevv"><img src="https://img.shields.io/badge/x (twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
----
-
 <kbd>
 <p align="center" width="100%">
 <h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
