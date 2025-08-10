@@ -63,3 +63,5 @@
 </kbd>
 </p>
 </kbd>
+
+The content in this repository may not be copied or used without permission. Legal information can be viewed [here](https://voxxdevv.is-a.dev/legal.html). Copyright © 2021-2025, LumaCraft. All rights reserved.
