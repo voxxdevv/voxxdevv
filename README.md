@@ -11,7 +11,7 @@
 
 
 <p align="center" width="100%">
-<h3 align="center" width="100%"> ☆ i am currently learning... ☆ </h3>
+<h3 align="center" width="100%">currently learning</h3>
 <p align="center" width="100%">
 <kbd>
 <img src="https://img.shields.io/badge/basic machine learning with tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -29,7 +29,7 @@
 
 <hr width="100%">
 
-<h3 align="center" width="100%"> ☆ my current top project is... ☆ </h3>
+<h3 align="center" width="100%">latest project</h3>
 
 <p align="center" width="100%">
 <kbd>
@@ -38,11 +38,11 @@
 </kbd>
 </p>
 
-<p align="center" width="100%"> ⓘ view the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>. ⓘ </p>
+<p align="center" width="100%">view the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>. ⓘ </p>
 
 <hr width="100%">
 
-<h3 align="center" width="100%"> ☆ my most used languages are... ☆ </h3>
+<h3 align="center" width="100%">most used languages</h3>
 
 <p align="center" width="100%">
 
@@ -54,7 +54,7 @@
 
 <hr width="100%">
 
-<h3 align="center" width="100%"> ☆ my overall page stats are... ☆ </h3>
+<h3 align="center" width="100%">github stats</h3>
 
 <p align="center" width="100%">
 
