@@ -36,7 +36,7 @@
 
 <p align="left" width="100%">
 
-<a href="https://nft.itis.top/lm"><img src="https://img.shields.io/badge/LumaMind™-32cd32?style=for-the-badge" /></a>
+<a href="https://nft.itis.top/lm"><img src="https://img.shields.io/badge/LumaMind™-ff69b4?style=for-the-badge" /></a>
 
 
 </p>
