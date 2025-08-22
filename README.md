@@ -1,6 +1,6 @@
-<kbd>
 
-<h1 align="left" width="100%">Latest Project</h1>
+
+<h1 align="left" width="100%">Latest Project</h1><kbd>
 <h3 align="left" width="100%">Latest Project</h3>
 
 <p align="left" width="100%">
