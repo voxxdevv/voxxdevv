@@ -31,6 +31,8 @@
 
 </p>
 
+<hr width="100%">
+
 <p align="left" width="100%">
 <h3 align="left" width="100%">Platforms</h3>
 <a href="https://voxxdevv.is-a.dev/voxxdevv.html"><img src="https://img.shields.io/badge/GitHub-ff69b4?&labelColor=32cd32&style=for-the-badge&logo=github&logoColor=white" /></a>
