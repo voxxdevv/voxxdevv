@@ -16,9 +16,9 @@
 
 <hr width="100%">
 
-<p align="center" width="100%">
-<h3 align="center" width="100%">Currently Learning</h3>
-<p align="center" width="100%">
+<p align="left" width="100%">
+<h3 align="left" width="100%">Currently Learning</h3>
+<p align="left" width="100%">
 
 <img src="https://img.shields.io/badge/Basic Machine Learning With TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,19 +32,19 @@
 
 <hr width="100%">
     
-<h3 align="center" width="100%">Latest Project</h3>
+<h3 align="left" width="100%">Latest Project</h3>
 
-<p align="center" width="100%">
+<p align="left" width="100%">
 
 <a href="https://nft.itis.top/lm"><img src="https://img.shields.io/badge/LumaMind™-2d3748?style=for-the-badge" /></a>
 
 
 </p>
 
-<p align="center" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>.</p>
+<p align="left" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>.</p>
 
 <hr width="100%">
 
-<p align="center" width="100%"> 
+<p align="left" width="100%"> 
 The content in this repository may not be copied or used without permission. Legal information can be viewed <a href="https://voxxdevv.is-a.dev/legal.html">here</a>. Copyright © 2021-2025, LumaCraft. All rights reserved.
 </p><p></p>
