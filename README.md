@@ -8,7 +8,9 @@
 <a href="https://tiktok.com/@voxxdevv"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://x.com/@voxxdevv"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
-<hr>
+
+<hr width="100%">
+
 <p align="center" width="100%">
 <h3 align="center" width="100%">Currently Learning</h3>
 <p align="center" width="100%">
@@ -35,7 +37,7 @@
 
 <p align="center" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>.</p>
 
-<p></p>
+<hr width="100%">
 
 <p align="center" width="100%"> 
 The content in this repository may not be copied or used without permission. Legal information can be viewed <a href="https://voxxdevv.is-a.dev/legal.html">here</a>. Copyright © 2021-2025, LumaCraft. All rights reserved.
