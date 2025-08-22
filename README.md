@@ -1,6 +1,6 @@
 <p></p>
     <kbd>
-
+<p></p>
 <p align="left" width="100%"> 
     <img src="images/heading.png" width="60%" />
  </p>
@@ -51,4 +51,3 @@
 The content in this repository may not be copied or used without permission. Legal information can be viewed <a href="https://voxxdevv.is-a.dev/legal.html">here</a>. Copyright © 2021-2025, LumaCraft. All rights reserved.
 </p><p></p>
 </kbd>
-<p></p>
