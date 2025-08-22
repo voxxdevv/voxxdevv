@@ -1,11 +1,11 @@
 <kbd>
 
 
-<p align="left" width="100%"> 
+
     <a href="https://voxxdevv.is-a.dev/">
     <h1 align="left" width="100%">@voxxdevv</h1>
     </a>
- </p>
+
 <h3 align="left" width="100%">Latest Project</h3>
 
 <p align="left" width="100%">
