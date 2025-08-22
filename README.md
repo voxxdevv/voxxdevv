@@ -35,7 +35,7 @@
 </kbd>
 </p>
 
-<p align="center" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>. ⓘ </p>
+<p align="center" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>.</p>
 
 <p></p>
 
