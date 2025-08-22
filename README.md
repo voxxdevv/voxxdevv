@@ -9,7 +9,7 @@
 <a href="https://x.com/@voxxdevv"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-<kbd>
+
 <p align="center" width="100%">
 <h3 align="center" width="100%">Currently Learning</h3>
 <p align="center" width="100%">
@@ -36,7 +36,6 @@
 </p>
 
 <p align="center" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>. ⓘ </p>
-</kbd>
 
 <p></p>
 
