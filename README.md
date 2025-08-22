@@ -33,11 +33,4 @@
 
 </p>
 
-
-<hr width="100%">
-
-<p align="left" width="100%"> 
-The content in this repository may not be copied or used without permission. Legal information can be viewed <a href="https://voxxdevv.is-a.dev/legal.html">here</a>. Copyright © 2021-2025, LumaCraft. All rights reserved.
-</p>
-
-</kbd>
+</kbd><h3 align="left" width="100%">The content in this repository may not be copied or used without permission. Legal information can be viewed <a href="https://voxxdevv.is-a.dev/legal.html">here</a>. Copyright © 2021-2025, LumaCraft. All rights reserved.</h3>
