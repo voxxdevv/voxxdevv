@@ -11,7 +11,7 @@
 <a href="http://discordapp.com/users/1362599218719756361"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://tiktok.com/@voxxdevv"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://x.com/@voxxdevv"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</kbd>
+
 </p>
 
 <hr width="100%">
