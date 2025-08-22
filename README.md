@@ -1,6 +1,5 @@
 <p align="center" width="100%"> 
     <kbd>
-<p></p>
 <p align="left" width="100%"> 
     <img src="images/heading.png" width="60%" />
  </p>
