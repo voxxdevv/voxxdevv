@@ -1,5 +1,4 @@
 <h3 align="left" width="100%">@voxxdevv</h3>
-<p></p>
 <kbd>
 <h3 align="left" width="100%">Latest Project</h3>
 
