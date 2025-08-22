@@ -1,5 +1,3 @@
-Make my GitHub read me look much better
-
 <p align="center" width="100%"> 
     <img src="images/heading.png" width="60%" />
  </p>
