@@ -30,13 +30,13 @@
 
 </p>
 
-
+<hr width="100%">
     
 <h3 align="left" width="100%">Latest Project</h3>
 
 <p align="left" width="100%">
 
-<a href="https://nft.itis.top/lm"><img src="https://img.shields.io/badge/LumaMind™-2d3748?style=for-the-badge" /></a>
+<a href="https://nft.itis.top/lm"><img src="https://img.shields.io/badge/LumaMind™-32dc32?style=for-the-badge" /></a>
 
 
 </p>
