@@ -25,7 +25,8 @@
 </kbd>
 </p>
 
-
+<hr width="100%">
+    
 <h3 align="center" width="100%">Latest Project</h3>
 
 <p align="center" width="100%">
