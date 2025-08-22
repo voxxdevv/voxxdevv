@@ -30,7 +30,7 @@
 
 </p>
 
-<hr width="100%">
+
     
 <h3 align="left" width="100%">Latest Project</h3>
 
