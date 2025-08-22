@@ -1,6 +1,5 @@
 <kbd>
 
-<p></p>
 
 <p align="left" width="100%"> 
     <a href="https://voxxdevv.is-a.dev/">
