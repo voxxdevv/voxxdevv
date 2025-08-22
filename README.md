@@ -2,11 +2,7 @@
 
 
 
-    <h1 align="left" width="100%">
-    <a href="https://voxxdevv.is-a.dev/">
-
-@voxxdevv</a></h1>
-    </a>
+    <h1 align="left" width="100%"><a href="https://voxxdevv.is-a.dev/">@voxxdevv</a></h1>
 
 <h3 align="left" width="100%">Latest Project</h3>
 
