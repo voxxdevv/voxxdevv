@@ -1,5 +1,6 @@
-<hr width="100%">
+
 <kbd>
+    <hr width="100%">
 <h3 align="left" width="100%">Latest Project</h3>
 
 <p align="left" width="100%">
