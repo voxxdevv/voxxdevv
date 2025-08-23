@@ -1,4 +1,4 @@
-<h2 align="center" width="100%">@voxxdevv</h2>
+<h1 align="left" width="100%">@voxxdevv</h1>
 <h4 align="left" width="100%">Latest Project</h4>
 
 <p align="left" width="100%">
