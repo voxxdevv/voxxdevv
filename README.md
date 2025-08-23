@@ -9,7 +9,7 @@
 
 <p align="left" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>.</p>
 
-<hr width="100%">
+<h2></h2>
 
 <p align="left" width="100%">
 <h3 align="left" width="100%">Currently Learning</h3>
@@ -22,7 +22,7 @@
 
 </p>
 
-<hr width="100%">
+<h2></h2>
 
 <p align="left" width="100%">
 <h3 align="left" width="100%">Platforms</h3>
@@ -33,8 +33,6 @@
 <a href="https://voxxdevv.is-a.dev/voxxdevv.html"><img src="https://img.shields.io/badge/X (Twitter)-ff69b4?&labelColor=32cd32&style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-
-<h2></h2>
 </kbd>
 
     
