@@ -8,7 +8,8 @@
 </p>
 
 <p align="left" width="100%">View the full list of projects <a href="https://voxxdevv.is-a.dev">here</a>.</p>
-<hr width="100%">
+
+
 
 <p align="left" width="100%">
 <h3 align="left" width="100%">Currently Learning</h3>
@@ -21,7 +22,7 @@
 
 </p>
 
-<hr width="100%">
+
 
 <p align="left" width="100%">
 <h3 align="left" width="100%">Platforms</h3>
